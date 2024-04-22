@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/Data-Science-Jagannath/NLP-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Data-Science-Jagannath/NLP-Project/actions/workflows/main.yml)
+
 # NLP-Project
 
 ## Difference Pytest and Pytest-cov
