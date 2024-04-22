@@ -21,6 +21,6 @@ jobs:
       - name: Test eith pytest
         run: |
           make test
-      - name: format code with Python Black
+      - name: Format with Python Black
         run: |
           make foramt
